@@ -1,0 +1,12 @@
+.text-gray {
+    color:gray;
+}
+
+.text-light {
+    color:white;
+}
+
+.card-sub-container {
+    display: flex!important;
+    flex-direction: column!important;
+}
